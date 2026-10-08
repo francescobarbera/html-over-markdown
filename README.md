@@ -6,10 +6,8 @@ HTML over Markdown is a collection of reusable prompts that ask coding agents to
 
 ## Explore
 
-| Topic | Reusable prompt |
-| --- | --- |
-| Code review — Vite [PR #22480](https://github.com/vitejs/vite/pull/22480) | [Prompt](prompts/code-review.md) |
-| Incident timeline — synthetic production outage | [Prompt](prompts/incident-timeline.md) |
-| Frontend component hierarchy — Excalidraw | [Prompt](prompts/component-hierarchy.md) |
-
-**Live examples (once GitHub Pages is enabled):** [Code review](https://francescobarbera.github.io/html-over-markdown/examples/code-review.html) · [Incident timeline](https://francescobarbera.github.io/html-over-markdown/examples/incident-timeline.html) · [Component hierarchy](https://francescobarbera.github.io/html-over-markdown/examples/component-hierarchy.html)
+| Topic | Reusable prompt | Live example |
+| --- | --- | --- |
+| Code review — Vite [PR #22480](https://github.com/vitejs/vite/pull/22480) | [Prompt](prompts/code-review.md) | [View example](https://francescobarbera.github.io/html-over-markdown/examples/code-review.html) |
+| Incident timeline — synthetic production outage | [Prompt](prompts/incident-timeline.md) | [View example](https://francescobarbera.github.io/html-over-markdown/examples/incident-timeline.html) |
+| Frontend component hierarchy — Excalidraw | [Prompt](prompts/component-hierarchy.md) | [View example](https://francescobarbera.github.io/html-over-markdown/examples/component-hierarchy.html) |
